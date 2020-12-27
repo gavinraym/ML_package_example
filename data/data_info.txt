@@ -1,0 +1,1 @@
+This dataset was found on Kaggle at https://www.kaggle.com/dragonduck/property-listings-in-kuala-lumpur. It is stated as being in the Public Domain.

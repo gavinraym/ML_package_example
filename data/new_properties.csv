@@ -1,0 +1,501 @@
+,Location,Rooms,Bathrooms,Car Parks,Property Type,Size,Furnishing
+0,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",1,2.0,,Serviced Residence (Intermediate),Land area : 775 sq. ft.,Fully Furnished
+1,"Kepong, Kuala Lumpur",,3.0,,2-sty Terrace/Link House,Land area : 20x70 sq. ft.,Partly Furnished
+2,"Kepong, Kuala Lumpur",3,2.0,1.0,Condominium (Corner),"Built-up : 1,109 sq. ft.",Partly Furnished
+3,"Sunway SPK, Kuala Lumpur",5+1,5.0,,2.5-sty Terrace/Link House (Intermediate),Land area : 1650 sq. ft.,Partly Furnished
+4,"Brickfields, Kuala Lumpur",2+2,2.0,,Serviced Residence (Intermediate),Built-up : 898 sq. ft.,Fully Furnished
+5,"Pantai, Kuala Lumpur",3,2.0,2.0,Condominium,"Built-up : 1,207 sq. ft.",
+6,"Setapak, Kuala Lumpur",3,2.0,1.0,Condominium (Corner),Land area : 1169 sq. ft.,Fully Furnished
+7,"Jalan Sultan Ismail, Kuala Lumpur",2,2.0,1.0,Serviced Residence,"Built-up : 1,120 sq. ft.",Partly Furnished
+8,"Bangsar, Kuala Lumpur",2,2.0,1.0,Serviced Residence (Corner),Built-up : 980 sq. ft.,Fully Furnished
+9,"Sri Petaling, Kuala Lumpur",2+1,2.0,1.0,2-sty Terrace/Link House,Land area : 14x60 sq. ft.,Unfurnished
+10,"Setapak, Kuala Lumpur",3,2.0,2.0,Condominium,"Built-up : 1,550 sq. ft.",Partly Furnished
+11,"Bangsar, Kuala Lumpur",3+1,4.0,,Condominium (Corner),"Built-up : 2,572 sq. ft.",Partly Furnished
+12,"Jalan Kuching, Kuala Lumpur",4+1,4.0,2.0,Condominium (Corner),"Built-up : 2,190 sq. ft.",Fully Furnished
+13,"Bandar Tasik Selatan, Kuala Lumpur",3,2.0,1.0,Apartment,Built-up : 857 sq. ft.,Unfurnished
+14,"Seputeh, Kuala Lumpur",7+1,9.0,4.0,Bungalow (Intermediate),Land area : 6800 sq. ft.,Partly Furnished
+15,"Batu Caves, Kuala Lumpur",3,2.0,,Condominium,"Built-up : 1,130 sq. ft.",Partly Furnished
+16,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",4,3.0,2.0,2-sty Terrace/Link House (Intermediate),Land area : 22x75 sq. ft.,Partly Furnished
+17,"Cheras, Kuala Lumpur",2,1.0,1.0,Serviced Residence (EndLot),Built-up : 695 sq. ft.,Fully Furnished
+18,"Desa ParkCity, Kuala Lumpur",7+1,7.0,4.0,Bungalow (Corner),Land area : 6200 sq. ft.,Partly Furnished
+19,"KL Eco City, Kuala Lumpur",1,1.0,1.0,Condominium,Built-up : 710 sq. ft.,Fully Furnished
+20,"Taman Melawati, Kuala Lumpur",5+1,7.0,5.0,Bungalow,Land area : 4229 sq. ft.,Partly Furnished
+21,"KLCC, Kuala Lumpur",4+1,5.0,2.0,Serviced Residence,"Built-up : 2,343 sq. ft.",Partly Furnished
+22,"KLCC, Kuala Lumpur",Studio,1.0,1.0,Serviced Residence (Corner),Built-up : 721 sq. ft.,Partly Furnished
+23,"Damansara Heights, Kuala Lumpur",5+1,6.0,4.0,Bungalow,Land area : 7000sf sq. ft.,
+24,"Bukit Jalil, Kuala Lumpur",3,3.0,2.0,Condominium (Intermediate),"Built-up : 1,003 sq. ft.",Unfurnished
+25,"SANTUARI PARK PANTAI, Kuala Lumpur",5,5.0,2.0,Bungalow,Land area : 6000 sq. ft.,
+26,"City Centre, Kuala Lumpur",3+1,3.0,,Condominium (Intermediate),"Built-up : 1,600 sq. ft.",Partly Furnished
+27,"Ampang, Kuala Lumpur",3,3.0,2.0,Serviced Residence (Intermediate),"Built-up : 1,505 sq. ft.",Partly Furnished
+28,"KLCC, Kuala Lumpur",3+1,3.0,2.0,Condominium (Corner),"Built-up : 2,142 sq. ft.",Partly Furnished
+29,"KLCC, Kuala Lumpur",2+1,2.0,,Serviced Residence,Built-up : 860 sq. ft.,Fully Furnished
+30,"Kepong, Kuala Lumpur",3,2.0,2.0,Condominium,Land area : 960 sq. ft.,Partly Furnished
+31,"Cheras, Kuala Lumpur",4+1,4.0,2.0,Condominium,"Built-up : 1,608 sq. ft.",Partly Furnished
+32,"Sungai Besi, Kuala Lumpur",4+1,5.0,,3-sty Terrace/Link House (Intermediate),"Built-up : 3,216 sq. ft.",Partly Furnished
+33,"Cheras, Kuala Lumpur",3,2.0,,2-sty Terrace/Link House (Intermediate),"Built-up : 1,067 sq. ft.",
+34,"Taman Tun Dr Ismail, Kuala Lumpur",5+1,7.0,,Bungalow,Land area : 7782 sq. ft.,
+35,"Bangsar, Kuala Lumpur",5+1,6.0,,Bungalow,Land area : 6000 sq. ft.,Unknown
+36,"Bangsar, Kuala Lumpur",1+1,1.0,,Serviced Residence (Corner),Built-up : 790 sq. ft.,Fully Furnished
+37,"Mont Kiara, Kuala Lumpur",6+1,6.0,6.0,Bungalow,Land area : 9619 sq. ft.,Partly Furnished
+38,"KLCC, Kuala Lumpur",,,,Serviced Residence (Intermediate),"Built-up : 1,426 sq. ft.",Fully Furnished
+39,"Taman Tun Dr Ismail, Kuala Lumpur",2+1,3.0,2.0,Serviced Residence,"Built-up : 1,680 sq. ft.",Partly Furnished
+40,"Bukit Jalil, Kuala Lumpur",3,2.0,2.0,Serviced Residence (Corner),"Built-up : 1,170 sq. ft.",Fully Furnished
+41,"Mont Kiara, Kuala Lumpur",3+1,,,Condominium,"Built-up : 2,535 sq. ft.",Partly Furnished
+42,"Bukit Bintang, Kuala Lumpur",4,4.0,2.0,Condominium,"Built-up : 2,153 sq. ft.",Partly Furnished
+43,"Sungai Besi, Kuala Lumpur",4+1,5.0,,3-sty Terrace/Link House (Intermediate),"Built-up : 3,216 sq. ft.",Partly Furnished
+44,"Mont Kiara, Kuala Lumpur",1,1.0,1.0,Serviced Residence,Built-up : 672 sq. ft.,Fully Furnished
+45,"KLCC, Kuala Lumpur",1,1.0,1.0,Serviced Residence (Intermediate),Built-up : 569 sq. ft.,Fully Furnished
+46,"KL Sentral, Kuala Lumpur",2,3.0,1.0,Serviced Residence (Intermediate),"Built-up : 1,485 sq. ft.",Fully Furnished
+47,"Sri Petaling, Kuala Lumpur",3+1,3.0,,2-sty Terrace/Link House (Intermediate),Land area : 25 x100 sq. ft.,Partly Furnished
+48,"Jalan Ipoh, Kuala Lumpur",4,3.0,,2-sty Terrace/Link House (Corner),Land area : 30x80 sq. ft.,Fully Furnished
+49,"Batu Caves, Kuala Lumpur",3,2.0,2.0,Serviced Residence,Land area : 1100 sq. ft.,Partly Furnished
+50,"Sungai Besi, Kuala Lumpur",2,1.0,2.0,2-sty Terrace/Link House (Intermediate),Land area : 14X55 sq. ft.,Partly Furnished
+51,"Kepong, Kuala Lumpur",4,2.0,,1-sty Terrace/Link House (Intermediate),Land area : 22x65 sq. ft.,Partly Furnished
+52,"KLCC, Kuala Lumpur",2+1,2.0,1.0,Serviced Residence,"Built-up : 1,100 sq. ft.",Fully Furnished
+53,"Cheras, Kuala Lumpur",5,4.0,,Bungalow,Land area : 5232 sq. ft.,Partly Furnished
+54,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3,2.0,1.0,Serviced Residence,Built-up : 960 sq. ft.,
+55,"Desa ParkCity, Kuala Lumpur",4+1,6.0,,2.5-sty Terrace/Link House (Intermediate),Land area : 31x70 sq. ft.,Partly Furnished
+56,"Ampang Hilir, Kuala Lumpur",3+1,4.0,1.0,Condominium (Corner),"Built-up : 2,700 sq. ft.",Partly Furnished
+57,"City Centre, Kuala Lumpur",3+1,3.0,2.0,Condominium (Corner),"Built-up : 1,319 sq. ft.",Fully Furnished
+58,"KLCC, Kuala Lumpur",1,2.0,1.0,Serviced Residence (Intermediate),Built-up : 923 sq. ft.,Partly Furnished
+59,"Dutamas, Kuala Lumpur",1,2.0,1.0,Condominium,"Built-up : 1,115 sq. ft.",
+60,"Setapak, Kuala Lumpur",3,2.0,2.0,Serviced Residence,"Built-up : 1,009 sq. ft.",
+61,"Bangsar, Kuala Lumpur",2,2.0,2.0,Condominium,"Built-up : 1,117 sq. ft.",Fully Furnished
+62,"Titiwangsa, Kuala Lumpur",5+1,6.0,6.0,Bungalow,Land area : 6500 sq. ft.,Partly Furnished
+63,"Ampang Hilir, Kuala Lumpur",3,2.0,1.0,Condominium (Penthouse),Land area : 887 sq. ft.,Partly Furnished
+64,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3,2.0,2.0,Condominium (Intermediate),"Built-up : 1,016 sq. ft.",Fully Furnished
+65,"KL Sentral, Kuala Lumpur",3+1,3.0,,Condominium (Intermediate),"Built-up : 1,528 sq. ft.",
+66,"KLCC, Kuala Lumpur",5+2,6.0,4.0,Condominium (Triplex),"Built-up : 5,423 sq. ft.",Partly Furnished
+67,"Bukit Jalil, Kuala Lumpur",3+1,4.0,4.0,Condominium,"Built-up : 2,556 sq. ft.",Fully Furnished
+68,"KL City, Kuala Lumpur",3+1,2.0,1.0,Condominium (Intermediate),"Built-up : 1,065 sq. ft.",Unfurnished
+69,"Setapak, Kuala Lumpur",4,2.0,2.0,Condominium (Intermediate),"Built-up : 1,185 sq. ft.",Partly Furnished
+70,"Sungai Besi, Kuala Lumpur",4+1,5.0,4.0,Semi-detached House (Intermediate),Land area : 3282 sq. ft.,Partly Furnished
+71,"Sri Hartamas, Kuala Lumpur",5,4.0,2.0,2-sty Terrace/Link House (Intermediate),Land area : 22x75 sq. ft.,Partly Furnished
+72,"Wangsa Maju, Kuala Lumpur",4+1,4.0,4.0,Semi-detached House (Intermediate),"Built-up : 2,080 sq. ft.",Partly Furnished
+73,"Bukit Jalil, Kuala Lumpur",4+1,6.0,,Bungalow (Intermediate),Land area : 9074 sq. ft.,Partly Furnished
+74,"Mont Kiara, Kuala Lumpur",4+1,3.0,2.0,Condominium,"Built-up : 1,830 sq. ft.",
+75,"Sri Hartamas, Kuala Lumpur",3,2.0,,Condominium,"Built-up : 1,076 sq. ft.",Partly Furnished
+76,"Setapak, Kuala Lumpur",,,,Serviced Residence,,
+77,"Kepong, Kuala Lumpur",3,2.0,1.0,2.5-sty Terrace/Link House,Land area : 14x45 sq. ft.,Partly Furnished
+78,"Cheras, Kuala Lumpur",3,2.0,2.0,Condominium,"Built-up : 1,018 sq. ft.",Unfurnished
+79,"Cheras, Kuala Lumpur",4,3.0,2.0,2-sty Terrace/Link House (Intermediate),Land area : 22x70 sq. ft.,Partly Furnished
+80,"Mont Kiara, Kuala Lumpur",2,2.0,1.0,Serviced Residence,"Built-up : 1,029 sq. ft.",Partly Furnished
+81,"KL City, Kuala Lumpur",2,2.0,1.0,Serviced Residence,Built-up : 915 sq. ft.,Partly Furnished
+82,"Taman Desa, Kuala Lumpur",4,3.0,,2-sty Terrace/Link House,Land area : 24x85 sq. ft.,Unfurnished
+83,"Damansara Heights, Kuala Lumpur",6+,9.0,,Bungalow,Land area : 14380 sq. ft.,Partly Furnished
+84,"Ampang, Kuala Lumpur",2+1,2.0,1.0,Condominium,"Built-up : 1,500 sq. ft.",Fully Furnished
+85,"Jalan Ipoh, Kuala Lumpur",3,2.0,2.0,Condominium (Intermediate),Built-up : 977 sq. ft.,Partly Furnished
+86,"Taman Melawati, Kuala Lumpur",6,7.0,,Semi-detached House (Intermediate),Land area : 3600 sq. ft.,
+87,"Bukit Jalil, Kuala Lumpur",4+1,3.0,2.0,Condominium (Intermediate),"Built-up : 1,513 sq. ft.",Partly Furnished
+88,"Cheras, Kuala Lumpur",6+1,7.0,6.0,Bungalow,Land area : 6650 sq. ft.,
+89,"Taman Desa, Kuala Lumpur",,,,Residential Land,Land area : 81800 sq. ft.,
+90,"KLCC, Kuala Lumpur",2,2.0,1.0,Serviced Residence (Intermediate),"Built-up : 1,055 sq. ft.",Fully Furnished
+91,"Mont Kiara, Kuala Lumpur",3+1,2.0,1.0,Condominium,"Built-up : 1,550 sq. ft.",Partly Furnished
+92,"Dutamas, Kuala Lumpur",3+1,3.0,2.0,Condominium (Intermediate),Land area : 1356 sq. ft.,Fully Furnished
+93,"Jalan Kuching, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,500 sq. ft.",Fully Furnished
+94,"Bukit Jalil, Kuala Lumpur",3+1,3.0,2.0,Condominium,"Built-up : 1,335 sq. ft.",Partly Furnished
+95,"Setiawangsa, Kuala Lumpur",4,3.0,,2-sty Terrace/Link House (Intermediate),Land area : 20 x70 sq. ft.,Partly Furnished
+96,"KL City, Kuala Lumpur",1+1,1.0,,Serviced Residence (Intermediate),Built-up : 625 sq. ft.,Partly Furnished
+97,"Dutamas, Kuala Lumpur",3,2.0,1.0,Condominium (Intermediate),"Built-up : 1,326 sq. ft.",Partly Furnished
+98,"Mont Kiara, Kuala Lumpur",3+1,3.0,2.0,Condominium (Corner),"Built-up : 2,038 sq. ft.",Partly Furnished
+99,"Mont Kiara, Kuala Lumpur",3,3.0,2.0,Condominium,"Built-up : 1,756 sq. ft.",Fully Furnished
+100,"KLCC, Kuala Lumpur",1,1.0,2.0,Serviced Residence (EndLot),Built-up : 925 sq. ft.,Partly Furnished
+101,"Taman Desa, Kuala Lumpur",3,2.0,1.0,Condominium (Intermediate),"Built-up : 1,200 sq. ft.",Unfurnished
+102,"Jalan Kuching, Kuala Lumpur",3,2.0,1.0,Condominium (Corner),"Built-up : 1,320 sq. ft.",Partly Furnished
+103,"KLCC, Kuala Lumpur",3,2.0,2.0,Condominium (Corner),"Built-up : 1,182 sq. ft.",Fully Furnished
+104,"Ampang Hilir, Kuala Lumpur",3+1,3.0,3.0,Condominium (Corner),"Built-up : 1,884 sq. ft.",Partly Furnished
+105,"Batu Caves, Kuala Lumpur",3,2.0,2.0,Serviced Residence,"Built-up : 1,100 sq. ft.",Fully Furnished
+106,"KLCC, Kuala Lumpur",3+1,4.0,3.0,Serviced Residence (Corner),"Built-up : 3,101 sq. ft.",Partly Furnished
+107,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3,2.0,1.0,Condominium (Corner),"Built-up : 1,350 sq. ft.",Partly Furnished
+108,"Taman Tun Dr Ismail, Kuala Lumpur",3+1,3.0,,2-sty Terrace/Link House (Intermediate),Land area : 1900 sq. ft.,Partly Furnished
+109,"Taman Melawati, Kuala Lumpur",4,5.0,3.0,Bungalow (Intermediate),Land area : 50x90 sq. ft.,Unfurnished
+110,"Kepong, Kuala Lumpur",4,4.0,,2-sty Terrace/Link House,Land area : 20x75 sq. ft.,Partly Furnished
+111,"KL City, Kuala Lumpur",3,2.0,2.0,Condominium (Intermediate),Built-up : 926 sq. ft.,Unfurnished
+112,"Damansara Heights, Kuala Lumpur",6+1,7.0,3.0,Semi-detached House (Intermediate),Land area : 3400 sq. ft.,Partly Furnished
+113,"Bukit Ledang, Kuala Lumpur",,,,Bungalow,Land area : 4884 sq. ft.,Partly Furnished
+114,"Sri Petaling, Kuala Lumpur",5,4.0,,2.5-sty Terrace/Link House (Intermediate),Land area : 22 x 80 sq. ft.,Unfurnished
+115,"Setapak, Kuala Lumpur",2,2.0,1.0,Serviced Residence,Land area : 900 sq. ft.,Partly Furnished
+116,"Bangsar South, Kuala Lumpur",1,1.0,1.0,Serviced Residence (Intermediate),Built-up : 550 sq. ft.,Partly Furnished
+117,"Taman Desa, Kuala Lumpur",2,2.0,,Serviced Residence,Built-up : 945 sq. ft.,Partly Furnished
+118,"City Centre, Kuala Lumpur",1,2.0,,Serviced Residence,"Built-up : 1,131 sq. ft.",Partly Furnished
+119,"Taman Tun Dr Ismail, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,478 sq. ft.",
+120,"Mont Kiara, Kuala Lumpur",3,2.0,1.0,Condominium (Corner),"Built-up : 1,280 sq. ft.",Fully Furnished
+121,"Jinjang, Kuala Lumpur",1+2,2.0,,Apartment (EndLot),Built-up : 657 sq. ft.,Unfurnished
+122,"KLCC, Kuala Lumpur",4+1,5.0,2.0,Condominium,"Built-up : 2,315 sq. ft.",Fully Furnished
+123,"Sunway SPK, Kuala Lumpur",5+1,5.0,,Semi-detached House (Intermediate),Land area : 45x95 sq. ft.,Fully Furnished
+124,"Taman Desa, Kuala Lumpur",5,3.0,,Condominium,"Built-up : 2,500 sq. ft.",
+125,"KLCC, Kuala Lumpur",3,3.0,2.0,Condominium,"Built-up : 2,028 sq. ft.",Fully Furnished
+126,"Bukit Jalil, Kuala Lumpur",3,2.0,1.0,Apartment (Intermediate),Land area : 950 sq. ft.,Unfurnished
+127,"Setapak, Kuala Lumpur",3,2.0,1.0,Condominium (Intermediate),"Built-up : 1,207 sq. ft.",Fully Furnished
+128,"Bukit Bintang, Kuala Lumpur",Studio,1.0,,Serviced Residence (EndLot),Built-up : 550 sq. ft.,Fully Furnished
+129,"Bukit Jalil, Kuala Lumpur",3,2.0,2.0,Condominium,"Built-up : 1,236 sq. ft.",Fully Furnished
+130,"Bukit Tunku (Kenny Hills), Kuala Lumpur",3+2,5.0,3.0,Condominium,"Built-up : 1,905 sq. ft.",
+131,"Sungai Besi, Kuala Lumpur",3,2.0,1.0,Serviced Residence,Built-up : 800 sq. ft.,Fully Furnished
+132,"Pantai, Kuala Lumpur",3,2.0,2.0,Serviced Residence (Intermediate),Built-up : 805 sq. ft.,Partly Furnished
+133,"Sri Hartamas, Kuala Lumpur",5+2,8.0,,Condominium,"Built-up : 9,085 sq. ft.",Unfurnished
+134,"Mont Kiara, Kuala Lumpur",6+1,7.0,4.0,Bungalow,Land area : 10200 sq. ft.,Partly Furnished
+135,"Kepong, Kuala Lumpur",3,1.0,3.0,1-sty Terrace/Link House (Intermediate),Land area : 21x70 sq. ft.,Unfurnished
+136,"Bukit Jalil, Kuala Lumpur",5+2,7.0,,Semi-detached House (Corner),Land area : 5393 sq. ft.,Partly Furnished
+137,"OUG, Kuala Lumpur",5,3.0,2.0,2-sty Terrace/Link House (EndLot),Land area : 32 x 65 sq. ft.,Partly Furnished
+138,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3+2,4.0,3.0,Condominium (Intermediate),"Built-up : 2,128 sq. ft.",Fully Furnished
+139,"KLCC, Kuala Lumpur",3,2.0,,Serviced Residence (Corner),"Built-up : 1,463 sq. ft.",Partly Furnished
+140,"Batu Caves, Kuala Lumpur",3,2.0,2.0,Serviced Residence (Corner),"Built-up : 1,119 sq. ft.",Partly Furnished
+141,"KLCC, Kuala Lumpur",3+1,4.0,2.0,Serviced Residence (Corner),"Built-up : 3,897 sq. ft.",
+142,"Cheras, Kuala Lumpur",4,2.0,1.0,Condominium (Intermediate),"Built-up : 1,364 sq. ft.",
+143,"Sentul, Kuala Lumpur",3+1,4.0,3.0,Condominium,"Built-up : 1,381 sq. ft.",
+144,"KLCC, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,676 sq. ft.",Partly Furnished
+145,"Cheras, Kuala Lumpur",3,2.0,1.0,Condominium (Corner),"Built-up : 1,195 sq. ft.",Fully Furnished
+146,"Taman Desa, Kuala Lumpur",2,2.0,1.0,Serviced Residence (Intermediate),Built-up : 715 sq. ft.,
+147,"Dutamas, Kuala Lumpur",5,5.0,2.0,Condominium (Corner),Land area : 2980 sq. ft.,Partly Furnished
+148,"Mont Kiara, Kuala Lumpur",4,4.0,2.0,Condominium,"Built-up : 1,603 sq. ft.",Partly Furnished
+149,"KLCC, Kuala Lumpur",2,2.0,1.0,Condominium,"Built-up : 1,368 sq. ft.",Fully Furnished
+150,"KL City, Kuala Lumpur",1,1.0,,Condominium,Built-up : 775 sq. ft.,Fully Furnished
+151,"Taman Tun Dr Ismail, Kuala Lumpur",6,6.0,,Bungalow,Land area : 10355 sq. ft.,
+152,"Taman Melawati, Kuala Lumpur",4+1,5.0,,Semi-detached House,Land area : 52x85 sq. ft.,Partly Furnished
+153,"KLCC, Kuala Lumpur",3,3.0,,Serviced Residence (Corner),"Built-up : 1,378 sq. ft.",Fully Furnished
+154,"Bukit Bintang, Kuala Lumpur",2,2.0,1.0,Serviced Residence (Intermediate),"Built-up : 1,070 sq. ft.",Fully Furnished
+155,"Bandar Menjalara, Kuala Lumpur",3+1,2.0,1.0,Condominium (Intermediate),"Built-up : 1,076 sq. ft.",Partly Furnished
+156,"Jalan Kuching, Kuala Lumpur",3,2.0,2.0,Serviced Residence,Built-up : 878 sq. ft.,
+157,"Sungai Besi, Kuala Lumpur",3,2.0,,Semi-detached House,Land area : 2454 sq. ft.,Partly Furnished
+158,"Mont Kiara, Kuala Lumpur",3+1,4.0,2.0,Condominium,"Built-up : 1,878 sq. ft.",Partly Furnished
+159,"Mont Kiara, Kuala Lumpur",3+1,4.0,2.0,Condominium,"Built-up : 1,496 sq. ft.",Partly Furnished
+160,"Setapak, Kuala Lumpur",3,2.0,1.0,Serviced Residence,"Built-up : 1,040 sq. ft.",
+161,"Sungai Besi, Kuala Lumpur",3,3.0,2.0,Serviced Residence (Corner),"Built-up : 1,430 sq. ft.",Partly Furnished
+162,"Bukit Jalil, Kuala Lumpur",3+1,2.0,2.0,Condominium (Intermediate),,Fully Furnished
+163,"Wangsa Maju, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,150 sq. ft.",Fully Furnished
+164,"Cheras, Kuala Lumpur",2,2.0,1.0,Condominium,Built-up : 852 sq. ft.,Partly Furnished
+165,"Damansara Heights, Kuala Lumpur",1,1.0,4.0,Residential Land,Land area : 12000 sq. ft.,
+166,"City Centre, Kuala Lumpur",3+2,5.0,2.0,Condominium,"Built-up : 3,285 sq. ft.",Partly Furnished
+167,"Mont Kiara, Kuala Lumpur",3+1,3.0,,Condominium,"Built-up : 2,645 sq. ft.",Partly Furnished
+168,"Kepong, Kuala Lumpur",3+1,2.0,2.0,Serviced Residence (EndLot),Land area : 1162 sq. ft.,Partly Furnished
+169,"KL Sentral, Kuala Lumpur",2+1,3.0,1.0,Serviced Residence (Intermediate),"Built-up : 1,490 sq. ft.",Fully Furnished
+170,"Segambut, Kuala Lumpur",2,2.0,1.0,Serviced Residence,Built-up : 713 sq. ft.,
+171,"Setapak, Kuala Lumpur",3+1,2.0,2.0,Condominium,"Built-up : 1,646 sq. ft.",Partly Furnished
+172,"Bukit Jalil, Kuala Lumpur",2,1.0,1.0,Apartment (Intermediate),Built-up : 640 sq. ft.,Partly Furnished
+173,"Taman Desa, Kuala Lumpur",Studio,1.0,1.0,Condominium (EndLot),Built-up : 607 sq. ft.,Fully Furnished
+174,"KLCC, Kuala Lumpur",4+1,5.0,2.0,Serviced Residence,"Built-up : 3,034 sq. ft.",Partly Furnished
+175,"Keramat, Kuala Lumpur",7,5.0,4.0,Bungalow Land,Land area : 4801 sq. ft.,
+176,"City Centre, Kuala Lumpur",2+1,3.0,1.0,Condominium,"Built-up : 1,453 sq. ft.",Fully Furnished
+177,"Cheras, Kuala Lumpur",4,3.0,4.0,2-sty Terrace/Link House,Land area : 1200 sq. ft.,
+178,"KLCC, Kuala Lumpur",3,2.0,,Condominium,Built-up : 971 sq. ft.,Partly Furnished
+179,"Cheras, Kuala Lumpur",3,2.0,2.0,Condominium,Built-up : 990 sq. ft.,Unfurnished
+180,"Brickfields, Kuala Lumpur",Studio,1.0,1.0,Condominium (Studio),Built-up : 250 sq. ft.,Fully Furnished
+181,"KLCC, Kuala Lumpur",3,3.0,2.0,Condominium (Corner),"Built-up : 1,502 sq. ft.",Fully Furnished
+182,"Cheras, Kuala Lumpur",4,3.0,2.0,2-sty Terrace/Link House (Intermediate),Land area : 22x75 sq. ft.,Unfurnished
+183,"Ampang Hilir, Kuala Lumpur",4,5.0,3.0,2-sty Terrace/Link House,Land area : 2700 sq. ft.,Partly Furnished
+184,"Kepong, Kuala Lumpur",3,2.0,4.0,1-sty Terrace/Link House (Intermediate),Land area : 1430 sq. ft.,Partly Furnished
+185,"Country Heights Damansara, Kuala Lumpur",20 Above,,,Residential Land (Intermediate),Land area : 10689 sq. ft.,Unfurnished
+186,"Jalan Kuching, Kuala Lumpur",3,2.0,,Condominium (Intermediate),"Built-up : 1,320 sq. ft.",Fully Furnished
+187,"Kepong, Kuala Lumpur",3+1,3.0,4.0,2-sty Terrace/Link House (Intermediate),Land area : 22x70 sq. ft.,Partly Furnished
+188,"Bukit Jalil, Kuala Lumpur",3,2.0,1.0,Condominium (Corner),"Built-up : 1,224 sq. ft.",Partly Furnished
+189,"Setapak, Kuala Lumpur",3,2.0,,Condominium,,
+190,"Mont Kiara, Kuala Lumpur",4+1,5.0,3.0,Condominium,"Built-up : 3,729 sq. ft.",Fully Furnished
+191,"Mont Kiara, Kuala Lumpur",3,2.0,,Condominium,"Built-up : 1,448 sq. ft.",Fully Furnished
+192,"Ampang Hilir, Kuala Lumpur",4+1,4.0,3.0,Condominium (Corner),"Built-up : 2,357 sq. ft.",Partly Furnished
+193,"KLCC, Kuala Lumpur",2,3.0,2.0,Condominium (Corner),"Built-up : 1,722 sq. ft.",Partly Furnished
+194,"Mont Kiara, Kuala Lumpur",4,5.0,1.0,Condominium,"Built-up : 2,025 sq. ft.",Fully Furnished
+195,"Taman Melawati, Kuala Lumpur",3,2.0,1.0,Serviced Residence (Corner),"Built-up : 1,007 sq. ft.",Partly Furnished
+196,"Keramat, Kuala Lumpur",3+1,3.0,2.0,1-sty Terrace/Link House,Land area : 2591 sq. ft.,Partly Furnished
+197,"Cheras, Kuala Lumpur",2,2.0,,Condominium (Intermediate),Built-up : 755 sq. ft.,Unfurnished
+198,"Desa ParkCity, Kuala Lumpur",5,3.0,,2-sty Terrace/Link House (Intermediate),Land area : 42x80 sq. ft.,Fully Furnished
+199,"KLCC, Kuala Lumpur",2,2.0,2.0,Condominium (Corner),Built-up : 873 sq. ft.,Partly Furnished
+200,"Kuchai Lama, Kuala Lumpur",3+1,3.0,3.0,Condominium (EndLot),,Fully Furnished
+201,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",4,4.0,3.0,Condominium,"Built-up : 2,638 sq. ft.",Fully Furnished
+202,"Mont Kiara, Kuala Lumpur",3,2.0,2.0,2-sty Terrace/Link House,Built-up : 829 sq. ft.,Partly Furnished
+203,"Mont Kiara, Kuala Lumpur",3,2.0,2.0,Condominium (Corner),Land area : 1432 sq. ft.,Partly Furnished
+204,"Sri Hartamas, Kuala Lumpur",Studio,1.0,1.0,Serviced Residence (Intermediate),Built-up : 657 sq. ft.,Fully Furnished
+205,"Pantai, Kuala Lumpur",3,2.0,2.0,Condominium,"Built-up : 1,019 sq. ft.",Fully Furnished
+206,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3+1,2.0,2.0,Condominium,"Built-up : 1,341 sq. ft.",
+207,"Cheras, Kuala Lumpur",2+1,2.0,1.0,Condominium (Intermediate),"Built-up : 1,076 sq. ft.",Partly Furnished
+208,"Other, Kuala Lumpur",4,3.0,2.0,Semi-detached House,Land area : 2625 sq. ft.,Unfurnished
+209,"Cheras, Kuala Lumpur",2,2.0,1.0,Serviced Residence,Built-up : 916 sq. ft.,Fully Furnished
+210,"Desa ParkCity, Kuala Lumpur",1+1,1.0,1.0,Condominium (Intermediate),Land area : 969 sq. ft.,Fully Furnished
+211,"Mont Kiara, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,280 sq. ft.",Fully Furnished
+212,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3,2.0,1.0,Condominium (Intermediate),Built-up : 920 sq. ft.,Unfurnished
+213,"KL City, Kuala Lumpur",1,1.0,1.0,Serviced Residence (Intermediate),Built-up : 646 sq. ft.,Fully Furnished
+214,"Ampang, Kuala Lumpur",3,2.0,,Serviced Residence,"Built-up : 1,572 sq. ft.",Unfurnished
+215,"Kepong, Kuala Lumpur",3,2.0,2.0,Condominium,"Built-up : 1,074 sq. ft.",Fully Furnished
+216,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3+1,2.0,2.0,Condominium (Corner),Land area : 1208 sq. ft.,Fully Furnished
+217,"City Centre, Kuala Lumpur",3+1,3.0,2.0,Condominium,"Built-up : 1,637 sq. ft.",Fully Furnished
+218,"Taman Melawati, Kuala Lumpur",5,5.0,4.0,Bungalow,Land area : 5000 sq. ft.,
+219,"Bangsar, Kuala Lumpur",5+1,4.0,5.0,Bungalow (Intermediate),Land area : 5726 sq. ft.,Unfurnished
+220,"Bukit Jalil, Kuala Lumpur",3+1,2.0,2.0,Condominium (Intermediate),"Built-up : 1,351 sq. ft.",Partly Furnished
+221,"Wangsa Maju, Kuala Lumpur",3,2.0,2.0,Condominium,"Built-up : 1,593 sq. ft.",Unfurnished
+222,"Sentul, Kuala Lumpur",3,2.0,2.0,Condominium (Intermediate),"Built-up : 1,066 sq. ft.",Partly Furnished
+223,"Mont Kiara, Kuala Lumpur",3,2.0,1.0,Serviced Residence,"Built-up : 1,248 sq. ft.",Partly Furnished
+224,"Bukit Jalil, Kuala Lumpur",5,6.0,3.0,Condominium (Corner),"Built-up : 3,260 sq. ft.",Partly Furnished
+225,"Taman Desa, Kuala Lumpur",4,3.0,,2-sty Terrace/Link House (Intermediate),"Built-up : 1,755 sq. ft.",
+226,"KL City, Kuala Lumpur",1+1,2.0,1.0,Condominium,Built-up : 795 sq. ft.,Partly Furnished
+227,"KLCC, Kuala Lumpur",4+1,4.0,2.0,Serviced Residence (Corner),"Built-up : 2,343 sq. ft.",Partly Furnished
+228,"Cheras, Kuala Lumpur",4+1,4.0,2.0,2-sty Terrace/Link House (Penthouse),Land area : 2000 sq. ft.,Fully Furnished
+229,"KLCC, Kuala Lumpur",3+1,3.0,2.0,Condominium (Corner),"Built-up : 2,245 sq. ft.",
+230,"Taman Desa, Kuala Lumpur",3+1,4.0,2.0,Condominium (Intermediate),"Built-up : 1,784 sq. ft.",Partly Furnished
+231,"Cheras, Kuala Lumpur",2+1,2.0,2.0,Serviced Residence,Built-up : 873 sq. ft.,
+232,"Bukit Bintang, Kuala Lumpur",2,2.0,,Serviced Residence,Built-up : 783 sq. ft.,Fully Furnished
+233,"Bukit Bintang, Kuala Lumpur",2,2.0,1.0,Serviced Residence,Built-up : 947 sq. ft.,Fully Furnished
+234,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3+1,3.0,2.0,Condominium,"Built-up : 1,663 sq. ft.",Partly Furnished
+235,"Taman Desa, Kuala Lumpur",4+2,3.0,3.0,Semi-detached House (Corner),Land area : 3000 sq. ft.,Partly Furnished
+236,"Kuchai Lama, Kuala Lumpur",3,2.0,1.0,Condominium (Corner),"Built-up : 1,537 sq. ft.",Partly Furnished
+237,"Bukit Jalil, Kuala Lumpur",4,4.0,,Condominium,"Built-up : 1,430 sq. ft.",Fully Furnished
+238,"Ampang, Kuala Lumpur",2,1.0,,Serviced Residence,"Built-up : 1,066 sq. ft.",Fully Furnished
+239,"Bukit Jalil, Kuala Lumpur",4,4.0,2.0,3-sty Terrace/Link House,Land area : 1840 sq. ft.,Partly Furnished
+240,"Desa ParkCity, Kuala Lumpur",1+1,1.0,1.0,Condominium,Built-up : 969 sq. ft.,Fully Furnished
+241,"Salak Selatan, Kuala Lumpur",3,2.0,2.0,Serviced Residence,"Built-up : 1,041 sq. ft.",Partly Furnished
+242,"Desa Petaling, Kuala Lumpur",3,2.0,1.0,Apartment,Built-up : 832 sq. ft.,
+243,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",1,1.0,1.0,Serviced Residence (Studio),Built-up : 660 sq. ft.,
+244,"KLCC, Kuala Lumpur",2+1,4.0,,Serviced Residence,"Built-up : 1,932 sq. ft.",Partly Furnished
+245,"Mont Kiara, Kuala Lumpur",3+1,3.0,2.0,Condominium (Intermediate),"Built-up : 1,598 sq. ft.",Fully Furnished
+246,"KL Sentral, Kuala Lumpur",1,2.0,1.0,Serviced Residence,"Built-up : 1,541 sq. ft.",Partly Furnished
+247,"Cheras, Kuala Lumpur",4+1,4.0,2.0,Semi-detached House (Intermediate),Land area : 40x100 sq. ft.,Partly Furnished
+248,"KLCC, Kuala Lumpur",3+1,5.0,,Serviced Residence (Corner),"Built-up : 2,474 sq. ft.",Partly Furnished
+249,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3+2,4.0,3.0,Condominium (Corner),"Built-up : 2,128 sq. ft.",Fully Furnished
+250,"Segambut, Kuala Lumpur",3+1,,2.0,Condominium,"Built-up : 1,295 sq. ft.",
+251,"KL Sentral, Kuala Lumpur",3,4.0,,Serviced Residence,"Built-up : 1,873 sq. ft.",Fully Furnished
+252,"KLCC, Kuala Lumpur",2+1,2.0,,Serviced Residence,Built-up : 777 sq. ft.,Partly Furnished
+253,"Sri Petaling, Kuala Lumpur",6,5.0,,Semi-detached House (Corner),Land area : 6000 sq. ft.,Partly Furnished
+254,"City Centre, Kuala Lumpur",5+1,6.0,3.0,Condominium (Duplex),"Built-up : 6,307 sq. ft.",Partly Furnished
+255,"Mont Kiara, Kuala Lumpur",5+1,4.0,,Condominium,"Built-up : 6,200 sq. ft.",Unfurnished
+256,"Mont Kiara, Kuala Lumpur",,,,Residential Land,Land area : 8500 sq. ft.,
+257,"Mont Kiara, Kuala Lumpur",2,2.0,2.0,Serviced Residence,Built-up : 932 sq. ft.,Fully Furnished
+258,"Sri Hartamas, Kuala Lumpur",3,3.0,1.0,Condominium,"Built-up : 1,560 sq. ft.",Partly Furnished
+259,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3,2.0,2.0,Condominium,Built-up : 948 sq. ft.,Partly Furnished
+260,"Dutamas, Kuala Lumpur",2+1,3.0,2.0,Condominium,"Built-up : 1,640 sq. ft.",Fully Furnished
+261,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3,2.0,,Condominium (Intermediate),"Built-up : 1,354 sq. ft.",Partly Furnished
+262,"KLCC, Kuala Lumpur",3+1,4.0,2.0,Condominium (Duplex),"Built-up : 3,285 sq. ft.",Fully Furnished
+263,"KLCC, Kuala Lumpur",2,2.0,1.0,Condominium,"Built-up : 1,056 sq. ft.",Fully Furnished
+264,"Wangsa Maju, Kuala Lumpur",3,2.0,1.0,Serviced Residence (Intermediate),Built-up : 770 sq. ft.,Unfurnished
+265,"Bukit Jalil, Kuala Lumpur",5+1,7.0,,Bungalow,Land area : 6200 sq. ft.,Partly Furnished
+266,"KLCC, Kuala Lumpur",1,1.0,,Serviced Residence,Built-up : 610 sq. ft.,Fully Furnished
+267,"KLCC, Kuala Lumpur",2,1.0,1.0,Serviced Residence (Intermediate),Built-up : 713 sq. ft.,Partly Furnished
+268,"Taman Melawati, Kuala Lumpur",9+1,9.0,,Bungalow,Land area : 39825 sq. ft.,Fully Furnished
+269,"Bukit Bintang, Kuala Lumpur",2,3.0,,Serviced Residence,"Built-up : 1,509 sq. ft.",Fully Furnished
+270,"Mont Kiara, Kuala Lumpur",5+1,6.0,,Bungalow (Corner),Land area : 3800 sq. ft.,Partly Furnished
+271,"Setapak, Kuala Lumpur",3,2.0,2.0,Serviced Residence (Intermediate),"Built-up : 1,040 sq. ft.",
+272,"Kepong, Kuala Lumpur",4,3.0,2.0,2-sty Terrace/Link House (Intermediate),Land area : 1400 sq. ft.,Partly Furnished
+273,"KL Sentral, Kuala Lumpur",2,3.0,1.0,Serviced Residence (Intermediate),"Built-up : 1,485 sq. ft.",Fully Furnished
+274,"Batu Caves, Kuala Lumpur",3,2.0,2.0,Serviced Residence,"Built-up : 1,055 sq. ft.",Partly Furnished
+275,"Salak Selatan, Kuala Lumpur",3,2.0,,Flat (Intermediate),"Built-up : 1,090 sq. ft.",Fully Furnished
+276,"Taman Tun Dr Ismail, Kuala Lumpur",3+1,3.0,2.0,Condominium (Corner),"Built-up : 1,800 sq. ft.",Fully Furnished
+277,"Seputeh, Kuala Lumpur",3,2.0,2.0,Condominium (Corner),"Built-up : 1,087 sq. ft.",Partly Furnished
+278,"Ampang, Kuala Lumpur",6+1,9.0,,Bungalow,"Built-up : 9,276 sq. ft.",Unfurnished
+279,"KLCC, Kuala Lumpur",2,2.0,1.0,Serviced Residence,"Built-up : 1,100 sq. ft.",Fully Furnished
+280,"Setapak, Kuala Lumpur",3,2.0,,Flat (Intermediate),Built-up : 700 sq. ft.,
+281,"Cheras, Kuala Lumpur",3,2.0,2.0,Condominium,Land area : 850-1000 sq. ft.,Partly Furnished
+282,"Bukit Jalil, Kuala Lumpur",3+1,2.0,2.0,Condominium (Intermediate),"Built-up : 1,249 sq. ft.",Unfurnished
+283,"Setapak, Kuala Lumpur",4,3.0,,2.5-sty Terrace/Link House (Intermediate),Land area : 20x75 sq. ft.,Partly Furnished
+284,"Pantai, Kuala Lumpur",3,2.0,,Condominium (Intermediate),"Built-up : 1,019 sq. ft.",Partly Furnished
+285,"Mont Kiara, Kuala Lumpur",2+1,2.0,1.0,Condominium (Intermediate),Land area : Kuala Lumpur sq. ft.,Partly Furnished
+286,"Bukit Jalil, Kuala Lumpur",1+1,1.0,1.0,Serviced Residence,,Fully Furnished
+287,"Cheras, Kuala Lumpur",3,3.0,2.0,Condominium (Corner),"Built-up : 1,010 sq. ft.",Partly Furnished
+288,"Country Heights Damansara, Kuala Lumpur",7+1,8.0,,Bungalow,Land area : 8622 sq. ft.,Partly Furnished
+289,"Cheras, Kuala Lumpur",3,2.0,2.0,Condominium (Intermediate),"Built-up : 1,018 sq. ft.",Unfurnished
+290,"Setapak, Kuala Lumpur",4,2.0,2.0,Condominium (Intermediate),"Built-up : 1,333 sq. ft.",Partly Furnished
+291,"Mont Kiara, Kuala Lumpur",5+1,8.0,5.0,3-sty Terrace/Link House (Corner),Land area : 45x93 sq. ft.,Unfurnished
+292,"Kepong, Kuala Lumpur",4,4.0,2.0,2.5-sty Terrace/Link House (Intermediate),Land area : 20x75 sq. ft.,Partly Furnished
+293,"Sri Hartamas, Kuala Lumpur",3+1,4.0,2.0,Condominium (Corner),"Built-up : 2,600 sq. ft.",Fully Furnished
+294,"Taman Tun Dr Ismail, Kuala Lumpur",6+1,7.0,7.0,Bungalow,Land area : 7319 sq. ft.,Unfurnished
+295,"Jalan Kuching, Kuala Lumpur",2,2.0,1.0,Flat (Intermediate),Built-up : 774 sq. ft.,Partly Furnished
+296,"Mont Kiara, Kuala Lumpur",3+1,4.0,2.0,Condominium (Corner),"Built-up : 2,159 sq. ft.",Partly Furnished
+297,"Mont Kiara, Kuala Lumpur",3,2.0,,Condominium,"Built-up : 1,206 sq. ft.",Unknown
+298,"Ampang, Kuala Lumpur",3,2.0,1.0,Townhouse (Corner),Land area : 710 sq. ft.,Partly Furnished
+299,"Pantai, Kuala Lumpur",1,1.0,1.0,Condominium (Intermediate),Built-up : 750 sq. ft.,Fully Furnished
+300,"Mont Kiara, Kuala Lumpur",3+1,4.0,,Condominium (Intermediate),"Built-up : 2,243 sq. ft.",
+301,"Kepong, Kuala Lumpur",3,2.0,,1-sty Terrace/Link House (Intermediate),Land area : 22x75 sq. ft.,Unfurnished
+302,"Mont Kiara, Kuala Lumpur",3+1,4.0,3.0,Condominium (Corner),"Built-up : 2,535 sq. ft.",Fully Furnished
+303,"KLCC, Kuala Lumpur",2+1,2.0,1.0,Serviced Residence,"Built-up : 1,490 sq. ft.",Fully Furnished
+304,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",2,2.0,,Condominium,"Built-up : 1,164 sq. ft.",
+305,"Taman Desa, Kuala Lumpur",3+1,4.0,,Condominium,"Built-up : 1,784 sq. ft.",
+306,"Desa ParkCity, Kuala Lumpur",4+1,5.0,4.0,Condominium (Intermediate),"Built-up : 2,454 sq. ft.",Fully Furnished
+307,"Bukit Jalil, Kuala Lumpur",3+1,3.0,2.0,Condominium (Intermediate),"Built-up : 1,335 sq. ft.",Partly Furnished
+308,"KLCC, Kuala Lumpur",Studio,1.0,,Serviced Residence,Built-up : 493 sq. ft.,Partly Furnished
+309,"Cheras, Kuala Lumpur",3,2.0,2.0,Apartment (Intermediate),Built-up : 950 sq. ft.,Unfurnished
+310,"Mont Kiara, Kuala Lumpur",4+1,5.0,3.0,Condominium (Corner),Land area : - sq. ft.,Partly Furnished
+311,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3,2.0,2.0,Serviced Residence (Intermediate),Built-up : 950 sq. ft.,Fully Furnished
+312,"Bukit Bintang, Kuala Lumpur",1,1.0,1.0,Condominium,Built-up : 538 sq. ft.,Unfurnished
+313,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3,2.0,,Apartment (Corner),Built-up : 805 sq. ft.,Unfurnished
+314,"KLCC, Kuala Lumpur",3+1,3.0,2.0,Condominium (Intermediate),"Built-up : 2,250 sq. ft.",Fully Furnished
+315,"Bangsar, Kuala Lumpur",3,2.0,1.0,Condominium (Corner),"Built-up : 1,850 sq. ft.",Partly Furnished
+316,"Bangsar, Kuala Lumpur",4+1,6.0,3.0,Condominium (Corner),"Built-up : 3,380 sq. ft.",Partly Furnished
+317,"Mont Kiara, Kuala Lumpur",4+1,5.0,4.0,3.5-sty Terrace/Link House (Intermediate),Land area : 1388 sq. ft.,Partly Furnished
+318,"Sri Hartamas, Kuala Lumpur",4+1,6.0,2.0,Condominium (Intermediate),"Built-up : 5,230 sq. ft.",Fully Furnished
+319,"Cheras, Kuala Lumpur",3,2.0,1.0,Condominium (Corner),"Built-up : 1,020 sq. ft.",Partly Furnished
+320,"Sungai Besi, Kuala Lumpur",3,2.0,2.0,Condominium,"Built-up : 1,184 sq. ft.",Partly Furnished
+321,"Taman Tun Dr Ismail, Kuala Lumpur",3,3.0,2.0,Serviced Residence (Intermediate),"Built-up : 1,690 sq. ft.",Partly Furnished
+322,"Wangsa Maju, Kuala Lumpur",3+1,3.0,2.0,Condominium (Penthouse),"Built-up : 2,300 sq. ft.",Partly Furnished
+323,"Bukit Jalil, Kuala Lumpur",3,3.0,2.0,Condominium,"Built-up : 1,023 sq. ft.",Partly Furnished
+324,"Setapak, Kuala Lumpur",3,2.0,,Apartment,Built-up : 715 sq. ft.,Fully Furnished
+325,"Desa ParkCity, Kuala Lumpur",4+1,5.0,4.0,3-sty Terrace/Link House (Intermediate),Land area : 2045 sq. ft.,Partly Furnished
+326,"Dutamas, Kuala Lumpur",3,3.0,2.0,Condominium (Corner),"Built-up : 1,506 sq. ft.",Partly Furnished
+327,"Dutamas, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,253 sq. ft.",Partly Furnished
+328,"Bangsar, Kuala Lumpur",5+1,7.0,,Condominium,"Built-up : 6,913 sq. ft.",Partly Furnished
+329,"Kepong, Kuala Lumpur",4,3.0,,2-sty Terrace/Link House (Intermediate),Land area : 22x70 sq. ft.,Fully Furnished
+330,"Kuchai Lama, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,120 sq. ft.",Fully Furnished
+331,"KLCC, Kuala Lumpur",3+1,4.0,,Serviced Residence,"Built-up : 2,343 sq. ft.",Unfurnished
+332,"KL Sentral, Kuala Lumpur",3+1,3.0,1.0,Condominium,"Built-up : 1,532 sq. ft.",Fully Furnished
+333,"Ampang, Kuala Lumpur",5+1,6.0,4.0,Bungalow (Corner),"Built-up : 3,821 sq. ft.",Partly Furnished
+334,"Taman Melawati, Kuala Lumpur",6+1,7.0,3.0,Bungalow (Corner),Land area : 5300 sq. ft.,Partly Furnished
+335,"Cheras, Kuala Lumpur",5+1,6.0,5.0,Bungalow,Land area : 8000 sq. ft.,Partly Furnished
+336,"KL Sentral, Kuala Lumpur",3+1,3.0,,Condominium,"Built-up : 1,529 sq. ft.",Partly Furnished
+337,"Sentul, Kuala Lumpur",3,2.0,,Condominium (Intermediate),"Built-up : 1,076 sq. ft.",Partly Furnished
+338,"Sri Hartamas, Kuala Lumpur",4+1,6.0,,Semi-detached House (Corner),Land area : 6100 sq. ft.,Fully Furnished
+339,"Bangsar, Kuala Lumpur",5+2,6.0,7.0,Bungalow,"Land area : 12,142 sq. ft.",
+340,"Mont Kiara, Kuala Lumpur",2,2.0,,Serviced Residence,Built-up : 917 sq. ft.,Fully Furnished
+341,"Dutamas, Kuala Lumpur",3+1,3.0,1.0,Condominium,"Built-up : 2,012 sq. ft.",Partly Furnished
+342,"OUG, Kuala Lumpur",6+1,6.0,6.0,Bungalow (Corner),Land area : 5000 sq. ft.,Partly Furnished
+343,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",2,2.0,2.0,Condominium (Intermediate),"Built-up : 1,164 sq. ft.",Fully Furnished
+344,"Seputeh, Kuala Lumpur",2,2.0,2.0,Condominium,"Built-up : 1,025 sq. ft.",Fully Furnished
+345,"Sentul, Kuala Lumpur",3,3.0,1.0,Condominium,"Built-up : 1,186 sq. ft.",
+346,"Dutamas, Kuala Lumpur",3+1,5.0,2.0,Condominium,"Built-up : 1,709 sq. ft.",Fully Furnished
+347,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3+1,2.0,2.0,Serviced Residence,"Built-up : 1,094 sq. ft.",Unfurnished
+348,"Titiwangsa, Kuala Lumpur",5+1,5.0,4.0,Bungalow (Corner),Land area : 6050 sq. ft.,Partly Furnished
+349,"Mont Kiara, Kuala Lumpur",4+1,4.0,3.0,Condominium (Corner),"Built-up : 2,495 sq. ft.",Partly Furnished
+350,"Dutamas, Kuala Lumpur",4+1,4.0,3.0,Condominium (Corner),"Built-up : 2,070 sq. ft.",Partly Furnished
+351,"Sungai Besi, Kuala Lumpur",3,2.0,2.0,Serviced Residence (Corner),"Built-up : 1,130 sq. ft.",Partly Furnished
+352,"Mont Kiara, Kuala Lumpur",,,,Residential Land,Land area : 10358 sq. ft.,
+353,"Seputeh, Kuala Lumpur",,,,Residential Land (Intermediate),Land area : 9884 sq. ft.,
+354,"Mont Kiara, Kuala Lumpur",4,5.0,,Condominium,"Built-up : 3,400 sq. ft.",Partly Furnished
+355,"Cheras, Kuala Lumpur",3+1,3.0,4.0,2-sty Terrace/Link House (Intermediate),Land area : 22x70 sq. ft.,Fully Furnished
+356,"Sentul, Kuala Lumpur",3,2.0,,Condominium (Intermediate),Land area : 1062 sq. ft.,Unfurnished
+357,"Desa Petaling, Kuala Lumpur",,,,Condominium,"Built-up : 1,141 sq. ft.",
+358,"Taman Melawati, Kuala Lumpur",5+1,6.0,3.0,Semi-detached House,Land area : 40x80 sq. ft.,Partly Furnished
+359,"Bukit Jalil, Kuala Lumpur",5,4.0,,3-sty Terrace/Link House,Land area : 2040 sq. ft.,Partly Furnished
+360,"Sentul, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,115 sq. ft.",Partly Furnished
+361,"Sungai Besi, Kuala Lumpur",3,2.0,,Serviced Residence,Built-up : 882 sq. ft.,
+362,"Ampang, Kuala Lumpur",4+1,5.0,3.0,Semi-detached House (Intermediate),Land area : 40x80 sq. ft.,Partly Furnished
+363,"Desa ParkCity, Kuala Lumpur",4+1,4.0,2.0,2-sty Terrace/Link House (EndLot),Land area : 38x75 sq. ft.,Partly Furnished
+364,"Mont Kiara, Kuala Lumpur",4+1,4.0,3.0,Condominium,"Built-up : 2,648 sq. ft.",Fully Furnished
+365,"Mont Kiara, Kuala Lumpur",3,2.0,2.0,Serviced Residence (Intermediate),"Built-up : 1,248 sq. ft.",Partly Furnished
+366,"Mont Kiara, Kuala Lumpur",4+2,4.0,3.0,Condominium,"Built-up : 2,735 sq. ft.",
+367,"Bandar Menjalara, Kuala Lumpur",3,2.0,1.0,Condominium,Built-up : 916 sq. ft.,
+368,"Damansara Heights, Kuala Lumpur",3+1,4.0,2.0,Serviced Residence (Corner),"Built-up : 1,573 sq. ft.",Partly Furnished
+369,"Damansara Heights, Kuala Lumpur",Studio,1.0,1.0,Serviced Residence,Built-up : 558 sq. ft.,Fully Furnished
+370,"Dutamas, Kuala Lumpur",4,4.0,3.0,Condominium (Penthouse),,
+371,"Taman Tun Dr Ismail, Kuala Lumpur",4+1,3.0,2.0,2-sty Terrace/Link House (Intermediate),Land area : 24x75 sq. ft.,Partly Furnished
+372,"Bukit Tunku (Kenny Hills), Kuala Lumpur",5,5.0,3.0,Condominium,"Built-up : 3,627 sq. ft.",Partly Furnished
+373,"Mont Kiara, Kuala Lumpur",4+1,6.0,3.0,Condominium (Corner),"Built-up : 3,541 sq. ft.",Fully Furnished
+374,"Setapak, Kuala Lumpur",3,2.0,1.0,2.5-sty Terrace/Link House (Intermediate),,Unfurnished
+375,"Bangsar, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,500 sq. ft.",
+376,"Cheras, Kuala Lumpur",3+1,3.0,,2.5-sty Terrace/Link House (Intermediate),"Built-up : 3,001 sq. ft.",Partly Furnished
+377,"Seputeh, Kuala Lumpur",1,2.0,1.0,Condominium,Built-up : 667 sq. ft.,Partly Furnished
+378,"Seputeh, Kuala Lumpur",2+1,2.0,,Condominium (Intermediate),"Built-up : 1,110 sq. ft.",Partly Furnished
+379,"Dutamas, Kuala Lumpur",3,3.0,2.0,Condominium (Intermediate),"Built-up : 1,451 sq. ft.",Fully Furnished
+380,"Setapak, Kuala Lumpur",3+1,3.0,1.0,Condominium,"Built-up : 1,416 sq. ft.",Partly Furnished
+381,"Sri Petaling, Kuala Lumpur",3,2.0,,Condominium (Corner),"Built-up : 1,129 sq. ft.",Fully Furnished
+382,"Mont Kiara, Kuala Lumpur",,,,Bungalow Land,"Land area : 12,400 sq. ft.",
+383,"Bukit Jalil, Kuala Lumpur",3+1,3.0,2.0,Condominium,"Built-up : 1,415 sq. ft.",Fully Furnished
+384,"Setapak, Kuala Lumpur",4,2.0,2.0,Condominium (Intermediate),"Built-up : 1,450 sq. ft.",Partly Furnished
+385,"Setapak, Kuala Lumpur",3+1,2.0,2.0,Serviced Residence (Corner),Land area : 1059 sq. ft.,Partly Furnished
+386,"Sentul, Kuala Lumpur",3,3.0,1.0,Condominium,"Built-up : 1,087 sq. ft.",Fully Furnished
+387,"Dutamas, Kuala Lumpur",3+1,3.0,2.0,Condominium (Corner),"Built-up : 1,580 sq. ft.",Partly Furnished
+388,"Bukit Jalil, Kuala Lumpur",3+1,3.0,1.0,Condominium (EndLot),"Built-up : 1,422 sq. ft.",Fully Furnished
+389,"Taman Duta, Kuala Lumpur",4+1,6.0,6.0,Bungalow,Land area : 10000 sq. ft.,Partly Furnished
+390,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3,2.0,1.0,Condominium (Intermediate),"Built-up : 1,292 sq. ft.",Fully Furnished
+391,"Bandar Menjalara, Kuala Lumpur",3+1,2.0,1.0,Serviced Residence (Intermediate),Built-up : 904 sq. ft.,Partly Furnished
+392,"Bukit Jalil, Kuala Lumpur",3,3.0,2.0,Condominium (Corner),"Built-up : 1,003 sq. ft.",Partly Furnished
+393,"Bukit Jalil, Kuala Lumpur",4+1,4.0,4.0,Condominium (Corner),"Built-up : 1,772 sq. ft.",Partly Furnished
+394,"Segambut, Kuala Lumpur",3,2.0,1.0,Apartment,Built-up : 998 sq. ft.,Fully Furnished
+395,"Segambut, Kuala Lumpur",3,3.0,,Condominium,"Built-up : 1,300 sq. ft.",Partly Furnished
+396,"Kuchai Lama, Kuala Lumpur",3,2.0,2.0,Condominium,"Built-up : 1,150 sq. ft.",Partly Furnished
+397,"Cheras, Kuala Lumpur",4,3.0,,2-sty Terrace/Link House (Intermediate),Land area : 20x75 (1500) sq. ft.,Partly Furnished
+398,"Desa ParkCity, Kuala Lumpur",2,2.0,,Condominium,"Built-up : 1,196 sq. ft.",Unfurnished
+399,"Damansara Heights, Kuala Lumpur",6,7.0,,Bungalow,Land area : 11400 sq. ft.,
+400,"Pantai, Kuala Lumpur",3,2.0,1.0,Condominium (Corner),"Built-up : 1,088 sq. ft.",Fully Furnished
+401,"Bukit Jalil, Kuala Lumpur",3+1,2.0,,Condominium,"Built-up : 1,293 sq. ft.",Partly Furnished
+402,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",4,,,2-sty Terrace/Link House,,
+403,"Taman Tun Dr Ismail, Kuala Lumpur",4,4.0,4.0,Semi-detached House (Intermediate),Land area : 3600 sq. ft.,Partly Furnished
+404,"Wangsa Maju, Kuala Lumpur",2+1,2.0,,Serviced Residence,Land area : 850 sq. ft.,Unfurnished
+405,"Jalan Kuching, Kuala Lumpur",3,2.0,1.0,Condominium (Intermediate),"Built-up : 1,009 sq. ft.",Partly Furnished
+406,"Bukit Tunku (Kenny Hills), Kuala Lumpur",6+1,7.0,6.0,Bungalow (Corner),Land area : 20600 sq. ft.,Partly Furnished
+407,"Cheras, Kuala Lumpur",2,2.0,,Condominium (Intermediate),Built-up : 975 sq. ft.,Fully Furnished
+408,"KLCC, Kuala Lumpur",1,1.0,1.0,Serviced Residence (Intermediate),Built-up : 850 sq. ft.,Fully Furnished
+409,"Bandar Damai Perdana, Kuala Lumpur",4,3.0,2.0,2-sty Terrace/Link House (EndLot),Land area : 20x70 sq. ft.,Partly Furnished
+410,"Cheras, Kuala Lumpur",3,2.0,1.0,Condominium (Corner),Built-up : 910 sq. ft.,Partly Furnished
+411,"Bukit Jalil, Kuala Lumpur",5,6.0,4.0,Condominium (Intermediate),"Built-up : 4,100 sq. ft.",Partly Furnished
+412,"KLCC, Kuala Lumpur",2,2.0,,Condominium (Intermediate),Built-up : 976 sq. ft.,Partly Furnished
+413,"KLCC, Kuala Lumpur",1,1.0,1.0,Serviced Residence,Built-up : 603 sq. ft.,Fully Furnished
+414,"Dutamas, Kuala Lumpur",2,2.0,2.0,Condominium,"Built-up : 1,150 sq. ft.",Fully Furnished
+415,"Batu Caves, Kuala Lumpur",3,2.0,2.0,Serviced Residence,"Built-up : 1,227 sq. ft.",Partly Furnished
+416,"KLCC, Kuala Lumpur",3,3.0,1.0,Serviced Residence,"Built-up : 1,184 sq. ft.",Partly Furnished
+417,"Mont Kiara, Kuala Lumpur",3+1,5.0,,Condominium,"Built-up : 1,605 sq. ft.",
+418,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",2,2.0,2.0,Serviced Residence (Corner),Built-up : 814 sq. ft.,Fully Furnished
+419,"Desa ParkCity, Kuala Lumpur",3,3.0,2.0,3-sty Terrace/Link House (Intermediate),"Built-up : 1,900 sq. ft.",Partly Furnished
+420,"Taman Desa, Kuala Lumpur",5+1,4.0,,Semi-detached House (EndLot),Land area : 3000 sq. ft.,Partly Furnished
+421,"KLCC, Kuala Lumpur",2,2.0,,Serviced Residence,"Built-up : 1,345 sq. ft.",Fully Furnished
+422,"Damansara Heights, Kuala Lumpur",2+1,3.0,2.0,Serviced Residence,"Built-up : 1,668 sq. ft.",Partly Furnished
+423,"duta Nusantara, Kuala Lumpur",5+1,6.0,4.0,Semi-detached House (Intermediate),Land area : 4000 sq. ft.,Partly Furnished
+424,"Bangsar, Kuala Lumpur",3+1,5.0,,Condominium (Corner),"Built-up : 1,905 sq. ft.",Partly Furnished
+425,"Damansara Heights, Kuala Lumpur",5+2,6.0,,Bungalow (Intermediate),Land area : 8500 sq. ft.,Partly Furnished
+426,"Mont Kiara, Kuala Lumpur",Studio,1.0,1.0,Serviced Residence (Studio),Built-up : 462 sq. ft.,Fully Furnished
+427,"Mont Kiara, Kuala Lumpur",3+1,4.0,2.0,Condominium,"Built-up : 2,201 sq. ft.",Partly Furnished
+428,"Mont Kiara, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,208 sq. ft.",Fully Furnished
+429,"Setapak, Kuala Lumpur",3,2.0,2.0,Serviced Residence (Intermediate),"Built-up : 1,040 sq. ft.",Partly Furnished
+430,"Kuchai Lama, Kuala Lumpur",3+1,3.0,2.0,Condominium,"Built-up : 1,690 sq. ft.",Fully Furnished
+431,"Jalan Kuching, Kuala Lumpur",1,1.0,,Serviced Residence,Built-up : 563 sq. ft.,Fully Furnished
+432,"Kepong, Kuala Lumpur",3,2.0,2.0,Serviced Residence,"Built-up : 1,239 sq. ft.",Fully Furnished
+433,"KLCC, Kuala Lumpur",3,2.0,2.0,Serviced Residence,"Built-up : 1,560 sq. ft.",Fully Furnished
+434,"Mont Kiara, Kuala Lumpur",3+1,3.0,,Condominium (Intermediate),"Built-up : 2,257 sq. ft.",Fully Furnished
+435,"Dutamas, Kuala Lumpur",3+1,4.0,2.0,Condominium,"Built-up : 1,876 sq. ft.",Partly Furnished
+436,"Mont Kiara, Kuala Lumpur",,,,Residential Land,Land area : 13800 sq. ft.,
+437,"Mont Kiara, Kuala Lumpur",3+1,4.0,,Condominium,"Built-up : 2,038 sq. ft.",Partly Furnished
+438,"Kuchai Lama, Kuala Lumpur",3,2.0,,Condominium,"Built-up : 1,150 sq. ft.",Partly Furnished
+439,"Sentul, Kuala Lumpur",3,2.0,,Condominium,,Unfurnished
+440,"Taman Melawati, Kuala Lumpur",3+1,3.0,,Serviced Residence (Intermediate),"Built-up : 1,253 sq. ft.",Partly Furnished
+441,"Desa ParkCity, Kuala Lumpur",5,4.0,,3-sty Terrace/Link House,Land area : 1760 sq. ft.,
+442,"Kuchai Lama, Kuala Lumpur",3,2.0,1.0,Serviced Residence (Intermediate),Built-up : 935 sq. ft.,Fully Furnished
+443,"Mont Kiara, Kuala Lumpur",3+1,4.0,,Condominium,"Built-up : 3,316 sq. ft.",
+444,"KLCC, Kuala Lumpur",2,2.0,,Serviced Residence,"Built-up : 1,195 sq. ft.",Partly Furnished
+445,"Dutamas, Kuala Lumpur",,,,Condominium,"Built-up : 1,326 sq. ft.",
+446,"KL Sentral, Kuala Lumpur",2+1,4.0,2.0,Serviced Residence (Corner),"Built-up : 2,408 sq. ft.",Partly Furnished
+447,"Setapak, Kuala Lumpur",3+1,2.0,2.0,Condominium,"Built-up : 1,200 sq. ft.",Partly Furnished
+448,"Cheras, Kuala Lumpur",3,2.0,1.0,Apartment (Corner),Built-up : 872 sq. ft.,Partly Furnished
+449,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3+1,2.0,2.0,Serviced Residence (Intermediate),Built-up : 854 sq. ft.,Partly Furnished
+450,"KLCC, Kuala Lumpur",2+1,2.0,1.0,Serviced Residence,Built-up : 877 sq. ft.,Partly Furnished
+451,"Cheras, Kuala Lumpur",3,2.0,1.0,Condominium (Intermediate),"Built-up : 1,064 sq. ft.",Partly Furnished
+452,"Taman Tun Dr Ismail, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,405 sq. ft.",Fully Furnished
+453,"Sungai Besi, Kuala Lumpur",2,2.0,,Condominium,Built-up : 858 sq. ft.,Unknown
+454,"Mont Kiara, Kuala Lumpur",4+1,6.0,3.0,Condominium (Intermediate),"Built-up : 2,411 sq. ft.",Fully Furnished
+455,"Setapak, Kuala Lumpur",3,2.0,2.0,Serviced Residence,"Built-up : 1,009 sq. ft.",Unfurnished
+456,"Seputeh, Kuala Lumpur",,,,Bungalow Land (Corner),Land area : 23100 sq. ft.,Unknown
+457,"Bukit Tunku (Kenny Hills), Kuala Lumpur",4+1,3.0,1.0,Condominium (Corner),"Built-up : 2,349 sq. ft.",Partly Furnished
+458,"Taman Desa, Kuala Lumpur",5+1,6.0,,Semi-detached House,Land area : 38x80 sq. ft.,Unfurnished
+459,"Mont Kiara, Kuala Lumpur",3+1,4.0,2.0,Condominium,"Built-up : 1,605 sq. ft.",Fully Furnished
+460,"Pantai, Kuala Lumpur",3,2.0,2.0,Condominium (Intermediate),"Built-up : 1,200 sq. ft.",Partly Furnished
+461,"Kuchai Lama, Kuala Lumpur",3+1,2.0,2.0,Condominium,"Built-up : 1,450 sq. ft.",Fully Furnished
+462,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3,2.0,1.0,Serviced Residence (Intermediate),Built-up : 950 sq. ft.,Unfurnished
+463,"Mont Kiara, Kuala Lumpur",4+1,3.0,3.0,Condominium (Corner),"Built-up : 2,973 sq. ft.",Partly Furnished
+464,"Mont Kiara, Kuala Lumpur",3+1,3.0,2.0,Condominium (Corner),"Built-up : 1,871 sq. ft.",Fully Furnished
+465,"Chan Sow Lin, Kuala Lumpur",3,4.0,2.0,Serviced Residence (Intermediate),Land area : 1250 sq. ft.,Partly Furnished
+466,"Ampang Hilir, Kuala Lumpur",4+1,4.0,4.0,Condominium (Corner),"Built-up : 4,293 sq. ft.",Unfurnished
+467,"Kepong, Kuala Lumpur",,,,Residential Land (Intermediate),Land area : 42000 sq. ft.,
+468,"Bukit Jalil, Kuala Lumpur",6,5.0,,3-sty Terrace/Link House (EndLot),Land area : 32x75 sq. ft.,Partly Furnished
+469,"Cheras, Kuala Lumpur",5,3.0,,2-sty Terrace/Link House (Intermediate),Land area : 22x75 sq. ft.,Partly Furnished
+470,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",3+1,4.0,,Condominium (Intermediate),"Built-up : 2,128 sq. ft.",Unfurnished
+471,"KLCC, Kuala Lumpur",1,1.0,1.0,Condominium,Built-up : 659 sq. ft.,Fully Furnished
+472,"Cheras, Kuala Lumpur",6+1,7.0,,Semi-detached House (Intermediate),Land area : 40x80 sq. ft.,Unfurnished
+473,"Mont Kiara, Kuala Lumpur",1,2.0,1.0,Condominium (Corner),Built-up : 798 sq. ft.,
+474,"Mont Kiara, Kuala Lumpur",3+1,2.0,1.0,Condominium,"Built-up : 1,733 sq. ft.",Partly Furnished
+475,"Kepong, Kuala Lumpur",5,5.0,3.0,3-sty Terrace/Link House (Intermediate),Land area : 22x80 sq. ft.,Unfurnished
+476,"Dutamas, Kuala Lumpur",3,2.0,2.0,Condominium,"Built-up : 1,670 sq. ft.",Fully Furnished
+477,"City Centre, Kuala Lumpur",1+1,2.0,2.0,Condominium,"Built-up : 1,600 sq. ft.",Partly Furnished
+478,"Bandar Menjalara, Kuala Lumpur",5+1,5.0,,Semi-detached House,Land area : 45x90 sq. ft.,
+479,"Dutamas, Kuala Lumpur",3+1,4.0,2.0,Condominium,"Built-up : 1,897 sq. ft.",Partly Furnished
+480,"Bangsar, Kuala Lumpur",3,2.0,1.0,Condominium,"Built-up : 1,100 sq. ft.",Partly Furnished
+481,"Bukit Bintang, Kuala Lumpur",2,2.0,,Serviced Residence,"Built-up : 1,099 sq. ft.",Fully Furnished
+482,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",2,2.0,1.0,Serviced Residence (Intermediate),Built-up : 852 sq. ft.,Partly Furnished
+483,"KLCC, Kuala Lumpur",2,2.0,1.0,Serviced Residence,Built-up : 803 sq. ft.,Fully Furnished
+484,"OUG, Kuala Lumpur",4+1,6.0,2.0,3-sty Terrace/Link House,Land area : 22 x 75 sq. ft.,Fully Furnished
+485,"Sentul, Kuala Lumpur",3,2.0,1.0,Condominium (Intermediate),"Built-up : 1,240 sq. ft.",Partly Furnished
+486,"Bukit Jalil, Kuala Lumpur",3,2.0,1.0,Apartment (Intermediate),"Built-up : 1,092 sq. ft.",Partly Furnished
+487,"Damansara Heights, Kuala Lumpur",4+1,4.0,3.0,Bungalow (Corner),,Partly Furnished
+488,"Mont Kiara, Kuala Lumpur",Studio,1.0,1.0,Serviced Residence (Intermediate),Built-up : 462 sq. ft.,Fully Furnished
+489,"Bandar Menjalara, Kuala Lumpur",3,2.0,2.0,Condominium (Intermediate),"Built-up : 1,162 sq. ft.",Partly Furnished
+490,"KLCC, Kuala Lumpur",3+1,4.0,,Condominium,"Built-up : 3,606 sq. ft.",Partly Furnished
+491,"Segambut, Kuala Lumpur",4,3.0,4.0,Semi-detached House (Intermediate),Land area : 3700 sq. ft.,Partly Furnished
+492,"Cheras, Kuala Lumpur",6+1,4.0,2.0,3-sty Terrace/Link House (Intermediate),Land area : 24x75 sq. ft.,Fully Furnished
+493,"Wangsa Maju, Kuala Lumpur",5+1,5.0,3.0,Condominium,"Built-up : 2,562 sq. ft.",Partly Furnished
+494,"OUG, Kuala Lumpur",4,3.0,2.0,2-sty Terrace/Link House (Intermediate),Land area : 1679 sq. ft.,Partly Furnished
+495,"Kepong, Kuala Lumpur",5+1,5.0,,2.5-sty Terrace/Link House (Intermediate),Land area : 22x68 sq. ft.,Partly Furnished
+496,"Dutamas, Kuala Lumpur",3,2.0,,Condominium (Corner),"Built-up : 1,100 sq. ft.",Unfurnished
+497,"OUG, Kuala Lumpur",7,8.0,,Bungalow,Land area : 6996 sq. ft.,Unfurnished
+498,"Bukit Bintang, Kuala Lumpur",3+1,3.0,2.0,Condominium,"Built-up : 1,820 sq. ft.",Fully Furnished
+499,"Kepong, Kuala Lumpur",3,2.0,1.0,Condominium (Intermediate),Built-up : 930 sq. ft.,Partly Furnished

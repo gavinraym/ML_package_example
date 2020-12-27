@@ -1,8 +1,8 @@
 import pandas as pd
 
-X = pd.read_csv('data/training_features.csv', index_col=0)
-y = pd.read_csv('data/training_target.csv', index_col=0)
-new_X = pd.read_csv('data/new_properties.csv', index_col=0)
+X = pd.read_csv('data/train_features.csv')
+y = pd.read_csv('data/train_target.csv')
+new_X = pd.read_csv('data/new_properties.csv')
 
 print('Features:')
 print(X.columns)

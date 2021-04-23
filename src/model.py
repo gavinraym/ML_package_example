@@ -14,7 +14,7 @@ holdout_X, train_X, holdout_y, train_y = (
     shuffle=True, stratify=y)
 )
 
-error = float()
+error = float() 
 expl_var = float()
 
 # In this for loop, we are testing our model after training on
@@ -27,7 +27,8 @@ for train_index, test_index in KFold(n_splits=5).split(train_X):
     y_pred = model.predict(train_X.iloc[test_index])
     y_true = train_y.iloc[test_index]
 
-    error += 
+    error += max_error(y_pred, y_true)
+    expl_var += explained_variance_score(y_pred, y_true)
 
 # After running KFold, we must devide by the number of folds to get
 # an average for each score.
